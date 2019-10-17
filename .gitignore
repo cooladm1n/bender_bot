@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+# configuration and tocken information
+CONF_ENV
+config.json
+.DS_Store
+package-lock.json
+.vscode/launch.json
+.eslintrc.js
