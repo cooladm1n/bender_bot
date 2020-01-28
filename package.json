@@ -5,19 +5,14 @@
   "main": "index.js",
   "dependencies": {
     "discord.js": "^11.5.1",
-    "faker": "^4.1.0",
-    "ffmpeg": "^0.0.4",
-    "ffmpeg-static": "^2.7.0",
-    "opusscript": "^0.0.7",
-    "random-word": "^2.0.0",
-    "ytdl-core": "^1.0.0"
+    "faker": "^4.1.0"
   },
   "devDependencies": {
     "eslint": "^6.6.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node ./src/index.js"
 
   },
   "repository": {
