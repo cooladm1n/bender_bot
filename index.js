@@ -1,5 +1,5 @@
 const Discord = require('discord.js')
-const Client = require('./client.js')
+const Client = require('./client')
 const faker = require('faker');
 const {
 	prefix,
